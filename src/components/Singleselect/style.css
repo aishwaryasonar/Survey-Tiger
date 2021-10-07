@@ -1,0 +1,30 @@
+.singleQ {
+	display: flex;
+	flex-direction: column;
+	width: 50%;
+	margin: 5px auto;
+}
+.opt {
+	margin: 10px;
+	margin-left: 0px;
+	align-self: start;
+}
+.options {
+	margin: 5px;
+	margin-left: 0px;
+}
+.btns {
+	display: flex;
+	justify-content: flex-end;
+}
+.btns .actionbtn {
+	margin: 10px 15px;
+	margin-right: 0px;
+	padding: 10px 0px;
+	width: 18%;
+	background-color: rgb(201, 71, 31);
+	color: white;
+	border: none;
+	border-radius: 3px;
+	font-size: 1vw;
+}
